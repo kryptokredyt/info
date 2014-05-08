@@ -1,0 +1,8 @@
+Nazwa waluty: Kredyty
+Czas emisji: ~8 lat
+Liczba wyemitowanych bloków: 2 100 000
+Czas generacji bloku: 2 minuty
+Zmiana trudnosæi: codziennie ( co 720 bloków)
+Nagroda: 2^7 ( co 300 000 bloków /2)
+Liczba wyemitowanych jednostek: 76 500 000
+Proof Of Work: SKRYPT
